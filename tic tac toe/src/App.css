@@ -1,4 +1,8 @@
 :root{
     --yellow:#ffc107;
+    --green:green;
 }
 
+body{
+    background-color: black;
+}
