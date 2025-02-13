@@ -1,9 +1,6 @@
-import Tweet from "./Components/Tweet";
+import Twitter from "./Components/Twitter";
+
 
 export default function App(){
-  return(
-    <div>
-        <Tweet />
-    </div>
-  )
+  return <Twitter />
 }
